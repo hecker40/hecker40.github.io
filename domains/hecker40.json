@@ -1,0 +1,11 @@
+{
+    "description": "My own portfolio website",
+    "repo": "https://github.com/hecker40/hecker40.github.io",
+    "owner": {
+        "username": "hecker40",
+        "email": "ultimatecoder40@gmail.com",
+    },
+    "record": {
+        "CNAME": "hecker40.github.io"
+    }
+} 
